@@ -1,0 +1,209 @@
+.navbar {
+      box-shadow: none;
+      color:black;
+      background-color: antiquewhite;
+}
+
+
+.know-more {
+      margin-left:40%;
+}
+
+.nav-margin {
+      margin-left:38%;
+}
+
+.sample {
+      top:420px;
+      
+}
+
+.main {
+      overflow: hidden;
+}
+
+.sample1 {
+      
+      transform-origin: left;
+    transition: all 1s;
+    text-align:left;
+    width:400px;
+    height:270px;
+    margin-top:32px;
+    top:0
+
+}
+
+ .sample1:hover {
+   
+      transform:translateX(0px) rotatey(90deg);
+      transform: matrix3d(300px);
+  }
+
+  .sample2 {
+    transform-origin: top;
+    transition: all 1s;
+    text-align:left;
+    width:400px;
+    height:270px;
+    margin-top:32px;
+    top:0
+}
+
+  .sample2:hover {
+   
+      transform:translateX(0px) rotatey(90deg);
+      transform: matrix3d(300px);
+  }
+
+  .sample3 {
+    transform-origin: right;
+    transition: all 1s;
+    text-align:left;
+    width:400px;
+    height:270px;
+    margin-top:32px;
+    top:0
+}
+
+.sample3:hover {
+   
+      transform:translateX(0px) rotatey(90deg);
+      transform: matrix3d(300px);
+  }
+
+  .main {
+      position: relative;
+  }
+
+  .ab {
+      position: absolute;
+      top:0
+
+  }
+
+  .box1 {
+    width:400px
+  }
+
+  .box2 {
+    width:400px
+  }
+
+  .box3 {
+    width:400px
+  }
+
+  .box4 {
+    width:400px;
+   
+  }
+
+  .box5 {
+    width:400px
+  }
+
+  .box6 {
+    width:400px;
+  }
+
+  .foot-line h3 {
+      color:black;
+      font-size: 15px;
+      background-color: rgba(194, 192, 192, 0.5);
+      padding:15px;
+      text-align: center;
+      margin:0; }
+
+      /*------products page */
+
+      .mybox1 {
+        width:300px
+      }
+
+      .mybox2 {
+        width:300px
+      }
+
+      .mybox3 {
+        width:300px
+      }
+
+      .mybox4 {
+        width:300px;
+      }
+
+      .margin1 {
+        margin-left:13%
+      }
+
+      .margin2 {
+        margin-left:25%
+      }
+
+      
+     
+
+     .cloud-text {
+      margin-top:30px;
+     }
+
+     .margin-login {
+      margin-left: 140px
+     }
+
+     .border-login {
+      border-radius: 25px 25px 25px 25px;
+     }
+
+     .widthmain{
+      width:70%
+     }
+
+     .margin1contact {
+      margin-left:15%
+     }
+
+     .margin2contact {
+      margin-left:5%
+     }
+
+     .margin3contact {
+      margin-left:5%
+     }
+     .margin4contact {
+      margin-left:5%
+     }
+
+     .margin-allbox{
+      margin-left:7%;
+     }
+
+     .border-box1{
+      border-top: 10px solid #17a2b8;
+      border-radius: 15px 15px 15px 15px
+     }
+
+     .border-box2{
+      border-top: 10px solid #28a745;
+      border-radius: 15px 15px 15px 15px
+     }
+
+     .border-box3{
+      border-top: 10px solid #007bff;
+      border-radius: 15px 15px 15px 15px
+     }
+
+     .border-box1-btn{
+      border-radius: 50px 50px 50px 50px
+     }
+
+     .border-box2-btn{
+      border-radius: 50px 50px 50px 50px
+     }
+
+     .border-box3-btn{
+      border-radius: 50px 50px 50px 50px
+     }
+
+     
