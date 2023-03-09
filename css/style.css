@@ -27,7 +27,7 @@
       transform-origin: left;
     transition: all 1s;
     text-align:left;
-    width:400px;
+    width:350px;
     height:270px;
     margin-top:32px;
     top:0
@@ -44,7 +44,7 @@
     transform-origin: top;
     transition: all 1s;
     text-align:left;
-    width:400px;
+    width:350px;
     height:270px;
     margin-top:32px;
     top:0
@@ -60,7 +60,7 @@
     transform-origin: right;
     transition: all 1s;
     text-align:left;
-    width:400px;
+    width:350px;
     height:270px;
     margin-top:32px;
     top:0
@@ -83,28 +83,28 @@
   }
 
   .box1 {
-    width:400px
+    width:350px
   }
 
   .box2 {
-    width:400px
+    width:350px
   }
 
   .box3 {
-    width:400px
+    width:350px
   }
 
   .box4 {
-    width:400px;
+    width:350px;
    
   }
 
   .box5 {
-    width:400px
+    width:350px
   }
 
   .box6 {
-    width:400px;
+    width:350px;
   }
 
   .foot-line h3 {
@@ -165,19 +165,22 @@
      }
 
      .margin2contact {
-      margin-left:5%
+      width:350px;
+     
      }
 
      .margin3contact {
-      margin-left:5%
+      width:350px;
+      
+      
      }
      .margin4contact {
-      margin-left:5%
+      width:350px;
+     
+  
      }
 
-     .margin-allbox{
-      margin-left:7%;
-     }
+     
 
      .border-box1{
       border-top: 10px solid #17a2b8;
